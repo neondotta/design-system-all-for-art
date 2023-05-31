@@ -1,0 +1,4 @@
+{
+    "extends": "@all-for-art/ts-config/react.json",
+    "include": ["src"]
+}
