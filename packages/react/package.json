@@ -24,7 +24,8 @@
     "@types/react-dom": "^18.2.4",
     "react": "^18.2.0",
     "tsup": "^6.7.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "@types/babel__core": "^7.20.1"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.3",
