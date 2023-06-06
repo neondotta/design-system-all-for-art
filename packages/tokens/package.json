@@ -17,6 +17,6 @@
     "@all-for-art/ts-config": "*",
     "@all-for-art/eslint-config": "*",
     "tsup": "^6.7.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.3"
   }
 }
