@@ -3,7 +3,7 @@ import { ComponentProps, ElementType } from "react"
 
 export const Button = styled('button', {
     all: 'unset',
-    bortderRadius: '$sm',
+    borderRadius: '$sm',
     fontSize: '$sm',
     fontWeight: '$medium',
     fontFamily: '$default',
@@ -57,8 +57,8 @@ export const Button = styled('button', {
                 },
         
                 '&:disabled': {
-                    backgroundColor: '$gray200',
                     border: '2px solid $colors$gray200',
+                    color: '$gray200',
                 },
             },
 
@@ -73,7 +73,7 @@ export const Button = styled('button', {
                 },
         
                 '&:disabled': {
-                    color: '$gray200',
+                    backgroundColor: '$gray200',
                     border: '2px solid $colors$gray200',
                 },
             },
