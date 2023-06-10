@@ -1,5 +1,11 @@
 # @all-for-art/react
 
+## 1.4.0
+
+### Minor Changes
+
+- Create Checkbox, Heading and Text components
+
 ## 1.3.0
 
 ### Minor Changes
